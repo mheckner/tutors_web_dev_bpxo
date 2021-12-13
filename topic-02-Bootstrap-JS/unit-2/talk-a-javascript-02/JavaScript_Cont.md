@@ -1,3 +1,3 @@
-Arrays: Basics
+Datenstrukturen
 
-Creating, accessing, adding to and removing from arrays.
+Arrays, Objekte
