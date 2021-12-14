@@ -36,6 +36,11 @@ Currently Empty - More Info may appear soon.
 
 ###Content:
 Weekly: 1h
+Additional Weekly: 0.5h
+Lab Javascript 1: 2h Dienstag
+Lab Javascript 2: 2h Mittwoch
+Anpassungen Week 2: 1h Samstag
+
 
 
 
