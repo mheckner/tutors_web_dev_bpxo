@@ -1,1 +1,1 @@
-Arrays in Javascript.
+Arrays in JS.

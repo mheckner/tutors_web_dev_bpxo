@@ -1,1 +1,1 @@
-Javascript Arrays
+Modularisierung in JS.
