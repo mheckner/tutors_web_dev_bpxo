@@ -1,1 +1,1 @@
-Basics in Bootstrap.
+Basics in Bootstrap

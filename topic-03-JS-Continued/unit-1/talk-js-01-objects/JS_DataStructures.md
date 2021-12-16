@@ -1,1 +1,1 @@
-Objects in JS.
+Objects in JS

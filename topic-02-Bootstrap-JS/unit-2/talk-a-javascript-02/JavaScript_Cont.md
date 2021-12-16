@@ -1,3 +1,0 @@
-Datenstrukturen
-
-Arrays, Objekte

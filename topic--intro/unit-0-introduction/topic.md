@@ -35,11 +35,14 @@ Currently Empty - More Info may appear soon.
 ## Week 3
 
 ###Content:
-Weekly: 1h
-Additional Weekly: 0.5h
-Lab Javascript 1: 2h Dienstag
-Lab Javascript 2: 2h Mittwoch
-Anpassungen Week 2: 1h Samstag
+- Weekly: 1h
+- Additional Weekly: 0.5h
+- Lab Javascript 1: 2h Dienstag
+- Lab Javascript 2: 3h Mittwoch
+- Anpassungen Week 2: 1h Samstag
+- WebStorm Lab 1h
+- Optimazation 1h
+***Total:*** 9,5h
 
 
 
