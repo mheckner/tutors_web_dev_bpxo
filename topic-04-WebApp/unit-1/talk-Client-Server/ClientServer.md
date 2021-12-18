@@ -1,1 +1,1 @@
-Client-Server Prinzip.
+Client-Server Prinzip
