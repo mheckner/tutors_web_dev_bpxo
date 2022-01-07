@@ -1,1 +1,1 @@
-Modules in Javascript
+Modularisierung
