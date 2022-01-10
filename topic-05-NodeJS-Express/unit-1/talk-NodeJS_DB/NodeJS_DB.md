@@ -1,1 +1,1 @@
-Datenbank-Verbindungen.
+Datenbank-Verbindungen
