@@ -1,1 +1,1 @@
-Express MVC für koordiniertes Arbeiten.
+Express MVC

@@ -1,1 +1,1 @@
-Sessions für einfaches User-Handling.
+Session Handling.
