@@ -1,3 +1,3 @@
-00: Einleitung zu Webtechnologien
+0: Einleitung zu Webtechnologien
 
-WebDev is epic!
+Generelle Kursinformationen.
