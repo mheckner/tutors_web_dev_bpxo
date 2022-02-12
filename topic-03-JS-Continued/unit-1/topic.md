@@ -1,1 +1,1 @@
-Javascipt Objekte.
+Javascipt Objekte

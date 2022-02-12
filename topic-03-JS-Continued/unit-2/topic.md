@@ -1,1 +1,1 @@
-Modularisierung in JS.
+Modularisierung in JS

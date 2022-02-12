@@ -1,1 +1,1 @@
-Basics in CSS.
+Basics in CSS
