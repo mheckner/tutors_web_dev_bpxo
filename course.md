@@ -14,6 +14,6 @@ Woche  | Thema
 5 | Template Engines
 6 | Routing und Formulare
 7 | Sessions
-8 | Tests und Deployment
+8 | Projekt
 
 Kontakt: markus.heckner@st.oth-regensburg.de

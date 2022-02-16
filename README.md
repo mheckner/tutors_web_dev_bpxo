@@ -2,19 +2,12 @@
 
 This repository contains the all new web development course for students at the OTH Regensburg studying Artificial Intelligence & Data Science (KIDS)
 
+
 ---
 ### Hosted version:
-
-~~~shell
-    npx tutors-json
-~~~
-This script generates a website in ./json to host on designated server. 
-Course is currently deployed at netlify and can be found here:
-**https://webdevrocks.netlify.app**
-
+This project is auto-deployed through Netlify! All committed changes will automatically be deployed to: 
+**https://webdevkids.netlify.app/**
 ---
-
-
 
 ### To Run locally (Appearance not equal to hosted version):
 ~~~shell
