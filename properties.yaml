@@ -9,13 +9,12 @@ icon :
   type: fa-solid:code-branch
   color: FFD601
 ignore :
- # - topic--intro
- # - topic-01-js-intro
- # - topic-02a-arrays
- # - topic-02b-glitch-overview
- # - topic-03-web-apps
- # - topic-04-app-templates+views
- # - topic-05-app-models
- # - topic-06-forms-sessions
- - topic-07-sessions
- - topic-08-test-deploy
+  - topic-00-intro
+  - topic-01-HTML-CSS
+  - topic-02-Bootstrap-JS
+  - topic-03-JS-Continued
+  - topic-04-WebApp
+  - topic-05-NodeJS-Express
+  - topic-06-forms-sessions
+  - topic-07-sessions
+  - topic-08-test-deploy
