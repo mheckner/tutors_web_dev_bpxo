@@ -8,7 +8,7 @@ ignorepin      : 2125
 icon :
   type: fa-solid:code-branch
   color: FFD601
-ignore : 
+ignore :
  # - topic--intro
  # - topic-01-js-intro
  # - topic-02a-arrays
@@ -17,5 +17,5 @@ ignore :
  # - topic-04-app-templates+views
  # - topic-05-app-models
  # - topic-06-forms-sessions
- # - topic-07-sessions
+ - topic-07-sessions
  - topic-08-test-deploy
