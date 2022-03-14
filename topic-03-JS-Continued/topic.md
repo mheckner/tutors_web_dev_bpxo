@@ -1,3 +1,3 @@
-3: Weiterführung JavaScript
+3: JavaScript continued
 
 Objekte, Daten speichern und Erweiterungen
