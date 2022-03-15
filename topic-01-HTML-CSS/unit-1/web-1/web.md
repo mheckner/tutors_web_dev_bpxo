@@ -1,3 +1,3 @@
-Beispielcode Lecture
+Beispielcode
 
-Repli mit Beispielcode aus der Vorlesung
+Repli mit Beispielcode aus der Lecture
