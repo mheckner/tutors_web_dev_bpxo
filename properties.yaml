@@ -5,9 +5,6 @@ parent         : course/webdev-ai-ds-oth.netlify.app
 credits        : Markus Heckner, OTH Regensburg
 auth           : 0
 ignorepin      : 2125
-icon :
-  type: fa-solid:code-branch
-  color: FFD601
 ignore :
   - topic-00-intro
 #  - topic-01-HTML-CSS
