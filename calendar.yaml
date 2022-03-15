@@ -1,33 +1,29 @@
 title:
 weeks:
-  - 2022-03-15:
+  - 2022-03-21:
       title: HTML und CSS
       type: Labture
-  - 2022-03-22:
+  - 022-03-28:
       title: Bootstrap und JS
       type: Labture
-  - 2022-03-29:
+  - 2022-04-04:
       title: Javascript
       type: tuition
-  - 2022-04-06:
+  - 2022-04-11:
       title: Node JS und Express
       type: Labture
-  - 2022-04-13:
+  - 2022-04-25:
       title: Node JS und Express
       type: Labture
-  - 2022-04-20:
+  - 2022-05-02:
       title: Routing und Formulare
       type: Labture
-  - 2022-04-27:
+  - 2022-05-09:
       title: Sessions
       type: Labture
-  - 2022-05-04:
-      title: Tests und Deployment
-      type: Labture
-  - 2022-05-11:
+  - 2022-05-16:
       title: Projektstart
       type: Project
-  - 2022-06-15:
+  - 2022-07-04:
       title: Projektende
       type: Project
-
