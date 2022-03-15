@@ -1,1 +1,1 @@
-Basics in HTML
+HTML Basics
