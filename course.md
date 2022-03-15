@@ -1,7 +1,7 @@
 # Webtechnologien - KI DS
 
-Dieser Kurs ist eine Einleitung in die moderne Webentwicklung mit HTML, CSS und Javascript.
-Mithilfe von NodeJS, Express und Handlebars werden Sie an verschiedenen Projekten arbeiten und das Gelernte final in einem großen Projekt umsetzen.
+Dieser Kurs ist eine Einführung in die moderne Webentwicklung mit HTML, CSS und Javascript.
+Mithilfe von NodeJS, Express und Handlebars werden Sie Webentwicklung anhand konkreter Codebeispiele kennenlernen und das Gelernte in einem zusammenhängenden Projekt umsetzen.
 
 Die Vorlesungen sind auf 7 Wochen unterteilt:
 
