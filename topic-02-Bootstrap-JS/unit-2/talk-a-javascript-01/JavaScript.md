@@ -1,3 +1,3 @@
-JavaScript Basics
+Einführung in JavaScript
 
-Einführung in die Sprache
+Basics zu JavaScript
