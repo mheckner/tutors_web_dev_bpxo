@@ -1,3 +1,3 @@
 HTML Einführung
 
-Basics in HTML
+Basics zu HTML
