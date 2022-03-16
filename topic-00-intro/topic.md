@@ -1,3 +1,3 @@
-0: Einleitung zu Webtechnologien
+0: Kursüberblick
 
-Kursüberblick
+Organisatorisches zum Kurs
