@@ -1,3 +1,3 @@
 3: JavaScript continued
 
-Objekte, Daten speichern und Erweiterungen
+Objekte, Arrays, Modularisierung

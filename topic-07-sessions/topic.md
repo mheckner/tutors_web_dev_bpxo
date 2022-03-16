@@ -1,3 +1,3 @@
 7: Sessions
 
-Intelligente Apps, die sich Daten auch merken können entwickeln.
+Nutzer über mehrere Seitenzugriffe hinweg identifizieren

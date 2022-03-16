@@ -1,3 +1,3 @@
 4: Web Application Basics
 
-Erste eigene Apps bauen
+Client Server, Express, Backend, Views, Webstorm

@@ -1,3 +1,3 @@
 6: Routing und Formulare
 
-Navigation durch Seiten und einbinden von Formularen nutzen.
+Navigation auf einer Webseite, Nutzereingaben mit Formularen
