@@ -1,1 +1,0 @@
-Objekte in JS
