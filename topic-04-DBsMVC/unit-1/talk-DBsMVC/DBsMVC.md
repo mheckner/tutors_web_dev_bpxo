@@ -1,1 +1,1 @@
-Datenbanken und Model View Controller
+Datenbanken und Model View Controller (MVC)
