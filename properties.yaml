@@ -17,7 +17,7 @@ ignore :
 #  - topic-01-HTML-CSS
 #  - topic-02-Bootstrap-JS
   - topic-03-JS-ContinuedWebAppBasics
-  - topic-04-WebApp
+  - topic-04-DBsMVC
   - topic-05-NodeJS-Express
   - topic-06-forms-sessions
   - topic-07-sessions
