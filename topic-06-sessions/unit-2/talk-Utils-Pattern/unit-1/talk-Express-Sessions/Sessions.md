@@ -1,3 +1,3 @@
-6: Sessions
+Sessions
 
 Wie Server mehrere Requests einem Client zuordnen können
