@@ -1,3 +1,3 @@
-7: Sessions
+6: Sessions
 
-Nutzer über mehrere Seitenzugriffe hinweg identifizieren
+Wie Server mehrere Requests einem Client zuordnen können

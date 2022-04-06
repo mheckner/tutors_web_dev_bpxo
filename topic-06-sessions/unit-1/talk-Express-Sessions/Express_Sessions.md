@@ -1,1 +1,3 @@
-Sessions für einfaches User-Handling.
+Sessions
+
+Wie Server mehrere Requests einem Client zuordnen können
