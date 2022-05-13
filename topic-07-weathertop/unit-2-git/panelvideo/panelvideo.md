@@ -1,1 +1,1 @@
-Einführung Git
+Knappe Einführung zu Github
