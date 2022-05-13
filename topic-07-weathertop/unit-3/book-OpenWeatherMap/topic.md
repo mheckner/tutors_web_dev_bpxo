@@ -1,3 +1,0 @@
-OpenWeatherMap API
-
-Erste Schritte

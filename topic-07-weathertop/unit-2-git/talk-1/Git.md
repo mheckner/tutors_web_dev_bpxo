@@ -1,3 +1,3 @@
-Einführung in Git
+Slides zu Git
 
-Basics zu Git
+Knappe Einführung zu Github
