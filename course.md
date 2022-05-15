@@ -15,4 +15,4 @@ Woche  | Thema
 6 | Routing und Formulare
 7 | Sessions
 
-Kontakt: markus.heckner@st.oth-regensburg.de
+Kontakt: markus.heckner@oth-regensburg.de
