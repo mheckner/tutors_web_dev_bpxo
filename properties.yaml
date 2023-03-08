@@ -1,11 +1,11 @@
 # slack          : https://wit-hdip-comp-sci-21.slack.com/archives/C023N47HEJ1
-moodle         : https://elearning.uni-regensburg.de/course/view.php?id=55424
+moodle         : https://elearning.hs-regensburg.de/course/view.php?id=4329
 # youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyBGowQ4W5vu67WR7YiPnsI6
-parent         : course/webdev-ai-ds-oth.netlify.app
+parent         : course/webdev-bpxo.netlify.app
 credits        : Markus Heckner, OTH Regensburg
 companions:
   piazza:
-    link : https://piazza.com/class/l10rl9aplb9lv
+    link : https://piazza.com/class/lezwjmuqo5j74u/
     title : Piazza Q&A for this course
     icon:
       icon: academicons:piazza
