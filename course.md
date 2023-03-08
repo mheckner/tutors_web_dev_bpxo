@@ -1,4 +1,4 @@
-# Webtechnologien - KI DS
+# Webtechnologien - B-PXO
 
 Dieser Kurs ist eine Einführung in die moderne Webentwicklung mit HTML, CSS und Javascript.
 Mithilfe von NodeJS, Express und Handlebars werden Sie Webentwicklung anhand konkreter Codebeispiele kennenlernen und das Gelernte in einem zusammenhängenden Projekt umsetzen.
